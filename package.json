@@ -1,5 +1,5 @@
 {
-  "name": "Whalepiz-Bnippet",
+  "name": "whalepiz-bnippet",
   "version": "1.2.2",
   "description": "This could include features like tagging, searching, and integration with popular code editors.",
   "main": "./src/index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/whalepiz/Whalepiz-Bnippet.git"
+    "url": "https://github.com/whalepiz/whalepiz-bnippet.git"
   },
   "keywords": [
     "teathebest",
     "codebnippet",
     "mamanger"
   ],
-  "author": "Whalepiz",
+  "author": "whalepiz",
   "license": "MIT",
   "dependencies": {
     "whalepiz": "^1.2.2"
