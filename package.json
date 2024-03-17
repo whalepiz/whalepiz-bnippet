@@ -18,6 +18,6 @@
   "author": "whalepiz",
   "license": "MIT",
   "dependencies": {
-    "whalepiz": "^1.2.2"
+    "whalepiz-snippet": "^1.2.2"
   }
 }
