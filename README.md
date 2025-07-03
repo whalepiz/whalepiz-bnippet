@@ -12,7 +12,7 @@ Install the required packages using npm:
 npm install fs-extra inquirer --save
 ``` 
 
-## Usage
+## Usagehhhh
 
 ```bash
 const bnippetManager = require('code-bnippet-manager');
