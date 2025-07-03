@@ -27,7 +27,7 @@ const bnippetManager = require('code-bnippet-manager');
 
 Run the createbnippet function to interactively create a new code bnippet. You will be prompted to enter the bnippet name and code.
 
-## Listing bnippets
+## Listing bnippets bbb
 
 Run the listbnippets function to display a list of available code bnippets.
 
